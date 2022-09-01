@@ -1,6 +1,12 @@
 # napp-boostcraft
 Crafting system for a boosting laptop and a hacking device for boosting. This script is made to work with Lionh34rt's Car Boosting Script out of the box but can be edited as it's Open Source.
 
+**VPN for items.lua since everything else exists already**
+```
+['vpn'] 			 			 = {['name'] = 'vpn', 			  				['label'] = 'VPN Device', 				['weight'] = 700, 		['type'] = 'item', 		['image'] = 'vpndevice.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Keeps people out of your business'},
+```
+
+
 **The BM Shop is not included, You need to make your own!**
 
 ![Desktop Screenshot 2022 09 01 - 17 26 49 66](https://user-images.githubusercontent.com/36120206/188016629-f6a7b834-d584-4c81-bf7c-e07f1be1c274.png)
