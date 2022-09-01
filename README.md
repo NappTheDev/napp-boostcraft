@@ -1,5 +1,7 @@
 # napp-boostcraft
-Crafting system for a boosting laptop and a hacking device for car boosting. This script is made to work with Lionh34rt's Car Boosting Script out of the box but can be edited as it's Open Source. **Lion's Car Boosting Script: https://lionh34rt.tebex.io/package/4982932**
+Crafting system for a boosting laptop and a hacking device for car boosting. This script is made to work with Lionh34rt's Car Boosting Script out of the box but can be edited as it's Open Source. 
+
+**Lion's Car Boosting Script: https://lionh34rt.tebex.io/package/4982932**
 
 **VPN Item for items.lua since everything else already exists:**
 ```
