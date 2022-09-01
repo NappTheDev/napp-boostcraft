@@ -3,7 +3,7 @@ Crafting system for a boosting laptop and a hacking device for car boosting. Thi
 
 **Lionh34rt's Car Boosting Script: https://lionh34rt.tebex.io/package/4982932**
 
-**VPN Item for items.lua since everything else already exists:**
+**VPN Item for items.lua since all other items already exists:**
 ```
 ['vpn'] 			 			 = {['name'] = 'vpn', 			  				['label'] = 'VPN Device', 				['weight'] = 700, 		['type'] = 'item', 		['image'] = 'vpndevice.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Keeps people out of your business'},
 ```
