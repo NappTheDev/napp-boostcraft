@@ -16,4 +16,4 @@ Crafting system for a boosting laptop and a hacking device for car boosting. Thi
 ![Desktop Screenshot 2022 09 01 - 17 27 59 37](https://user-images.githubusercontent.com/36120206/188016688-d86ad0a1-f6e9-4c93-b03c-cb95ce069cbb.png)
 
 
-**Credits: Napp#0001, Hubixcube2#0002 & Asendent#5040**
+**Credits: Napp#0001, Hubixcube2#0002 & Ossyfi#4802**
